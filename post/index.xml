@@ -5,12 +5,20 @@
     <link>https://ljm820.github.io/post/</link>
       <atom:link href="https://ljm820.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>    <language>zh-cn</language>
     <image>
       <url>https://ljm820.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
       <link>https://ljm820.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>基于Python与神经网络的XRD自动化晶格分析：工具生态、理论演进与应用全景</title>
+      <link>https://ljm820.github.io/post/xrd-python-nn-analysis/</link>
+      <pubDate>Sun, 12 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://ljm820.github.io/post/xrd-python-nn-analysis/</guid>
+      <description>深入梳理基于Python与神经网络的XRD自动化晶格分析工具生态，系统对比PXRDnet、XRDs、GSAS-II等十余种工具的算法范式、适用场景与技术路线，并探讨AI驱动材料科学的未来发展趋势。</description>
+    </item>
     
   </channel>
 </rss>
