@@ -29,20 +29,8 @@
       <description>记录从零搭建 PowerShell 7 + Starship 现代化开发终端的完整流程，涵盖提示符引擎选型、字体配置、智能补全、现代工具链集成与编辑器联动。</description>
     </item>
   
-    <item>
-      <title>基于 Starship 的 PowerShell 7 终端美化配置实践与工具链集成方案</title>
-      <link>https://ljm820.github.io/post/powershell-terminal-workflow-drafts/starship-terminal-beautification/</link>
-      <pubDate>2026-07-07/19/26 00:00:00 +0000</pubDate>
-      <guid>https://ljm820.github.io/post/powershell-terminal-workflow-drafts/starship-terminal-beautification/</guid>
-      <description>整理了使用 Starship 配置 PowerShell 7 终端美化的完整流程，包括提示符引擎选型、Nerd Font 字体配置、PSReadLine 智能补全、现代 CLI 工具链集成等。</description>
-    </item>
+    
   
-    <item>
-      <title>Windows 命令行开发环境的现代重构：基于 PowerShell 7 与 Starship 的终端工作流实践</title>
-      <link>https://ljm820.github.io/post/powershell-terminal-workflow-drafts/powershell-terminal-original/</link>
-      <pubDate>2026-07-07/19/26 00:00:00 +0000</pubDate>
-      <guid>https://ljm820.github.io/post/powershell-terminal-workflow-drafts/powershell-terminal-original/</guid>
-      <description>PowerShell 7 搭建命令行开发环境的早期版本记录，涵盖提示符引擎选型、字体配置、智能补全、现代替代工具链集成到 VS Code 终端联动。</description>
-    </item>
+    
   </channel>
 </rss>
