@@ -100,4 +100,11 @@
     <loc>https://ljm820.github.io/publication/</loc>
   </url>
   
+  <url>
+    <loc>https://ljm820.github.io/post/powershell-7-starship-terminal-workflow/</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
 </urlset>

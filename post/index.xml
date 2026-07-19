@@ -20,5 +20,13 @@
       <description>深入梳理基于Python与神经网络的XRD自动化晶格分析工具生态，系统对比PXRDnet、XRDs、GSAS-II等十余种工具的算法范式、适用场景与技术路线，并探讨AI驱动材料科学的未来发展趋势。</description>
     </item>
     
+  
+    <item>
+      <title>Windows 命令行开发环境的现代重构：基于 PowerShell 7 与 Starship 的终端工作流实践</title>
+      <link>https://ljm820.github.io/post/powershell-7-starship-terminal-workflow/</link>
+      <pubDate>2026-07-19 00:00:00 +0000</pubDate>
+      <guid>https://ljm820.github.io/post/powershell-7-starship-terminal-workflow/</guid>
+      <description>记录从零搭建 PowerShell 7 + Starship 现代化开发终端的完整流程，涵盖提示符引擎选型、字体配置、智能补全、现代工具链集成与编辑器联动。</description>
+    </item>
   </channel>
 </rss>
